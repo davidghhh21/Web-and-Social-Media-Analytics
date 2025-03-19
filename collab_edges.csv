@@ -1,0 +1,50 @@
+Source,Target,Weight,Project
+Prof_Smith,Dr_Jones,1,AI Research
+Prof_Smith,Dr_Williams,1,Data Mining
+Dr_Jones,Dr_Williams,1,Machine Learning
+Dr_Williams,Prof_Brown,1,Robotics
+Prof_Brown,Dr_Davis,2,Computer Vision
+Dr_Davis,Dr_Miller,3,NLP
+Prof_Smith,Dr_Miller,1,Deep Learning
+Dr_Jones,Prof_Brown,3,Cloud Computing
+Dr_Jones,Dr_Davis,5,Cybersecurity
+Dr_Williams,Dr_Miller,1,Data Science
+Dr_Brown,Dr_Smith,4,AI Ethics
+Dr_Williams,Prof_Smith,6,Quantum Computing
+Prof_Brown,Dr_Miller,1,Software Engineering
+Dr_Smith,Dr_Davis,1,Augmented Reality
+Dr_Miller,Prof_Brown,3,IoT
+Dr_Jones,Dr_Smith,8,Robotics
+Dr_Smith,Dr_Miller,2,Computational Linguistics
+Dr_Miller,Dr_Jones,1,Smart Cities
+Prof_Smith,Prof_Brown,4,AI Applications
+Dr_Williams,Prof_Davis,3,Computational Biology
+Dr_Miller,Dr_Johnson,2,Computer Science
+Dr_Johnson,Dr_Smith,6,Cloud Computing
+Prof_Smith,Dr_Baker,5,Distributed Systems
+Dr_Baker,Dr_Miller,3,Data Security
+Dr_Jones,Dr_Patterson,4,Biotech
+Dr_Patterson,Dr_Brown,1,Quantum Research
+Prof_Williams,Dr_Baker,2,High Performance Computing
+Dr_Johnson,Dr_Brown,3,Robotics Engineering
+Dr_Smith,Prof_Patterson,6,Smart Manufacturing
+Dr_Miller,Dr_Patterson,3,Cyber-Physical Systems
+Prof_Williams,Dr_Davis,4,Machine Learning
+Dr_Patterson,Dr_Johnson,5,Neural Networks
+Dr_Miller,Prof_Williams,7,Big Data
+Dr_Baker,Prof_Smith,4,Artificial Intelligence
+Dr_Williams,Prof_Brown,5,Robotics and AI
+Prof_Johnson,Dr_Williams,2,IoT and Connectivity
+Dr_Johnson,Dr_Patterson,6,Cloud Computing
+Dr_Patterson,Prof_Brown,3,Data Analytics
+Prof_Johnson,Dr_Davis,2,Machine Learning
+Dr_Williams,Dr_Patterson,4,Deep Learning
+Dr_Johnson,Prof_Davis,5,Biomedical Engineering
+Dr_Baker,Dr_Johnson,3,Blockchain Technology
+Prof_Smith,Dr_Johnson,4,Computational Biology
+Dr_Brown,Dr_Baker,1,Cognitive Computing
+Prof_Johnson,Dr_Baker,5,Advanced Robotics
+Dr_Smith,Dr_Patterson,6,Smart Cities Research
+Dr_Brown,Dr_Johnson,3,Robotics Automation
+Dr_Patterson,Dr_Miller,4,AI for Healthcare
+Prof_Williams,Prof_Brown,2,Sustainability in AI
